@@ -1,0 +1,7 @@
+@media only screen and (min-width: 648px) {
+
+    .card-wrapper {
+        box-shadow: 11px 9px 14px 13px rgba(11,17,23);
+    }
+
+}
